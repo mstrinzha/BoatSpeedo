@@ -1,0 +1,6 @@
+[submodule "libraries/mavlink"]
+	path = libraries/mavlink
+	url = https://github.com/ArduPilot/mavlink.git
+[submodule "libraries/TM74HC595"]
+	path = libraries/TM74HC595
+	url = https://github.com/kostarev/TM74HC595-4dig-display.git
